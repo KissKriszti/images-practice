@@ -1,3 +1,6 @@
+import Swiper from 'swiper';
+import 'swiper/css';
+
 const parseJSON = async (url) => {
     const response = await fetch(url);
     return response.json();
@@ -32,7 +35,6 @@ window.addEventListener('load', async () => {
     const swiper = new Swiper(".swiper", {
         loop: true
     });
-
 
 
 });

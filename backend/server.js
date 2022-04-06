@@ -5,6 +5,7 @@ const app = express()
 
 app.use(express.json())
 app.use('/public', express.static(__dirname + "/../frontend/public"));
+app.use('/dist', express.static(__dirname + "/../frontend/dist"));
 
 app.get('/', (req, res) => {
 	res.sendFile(path.join(__dirname + "/../frontend/index.html"));
