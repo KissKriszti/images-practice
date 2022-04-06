@@ -1,20 +1,17 @@
 const express = require('express')
 const fs = require('fs')
 const path = require('path')
-
 const app = express()
+
 app.use(express.json())
+app.use('/public', express.static(__dirname + "/../frontend/public"));
 
 app.get('/', (req, res) => {
 	res.sendFile(path.join(__dirname + "/../frontend/index.html"));
 });
 
-app.use('/public', express.static(__dirname + "/../frontend/public"));
-
 app.get('/image-list', (req,res) => {
-    const images = fs.readFileSync('../frontend/data.json');
-    const imageData = JSON.parse(images);
-    res.send(imageData);
+    res.sendFile(path.join(__dirname + "/../frontend/data.json"));
 });
 
 app.listen(9000, () => {

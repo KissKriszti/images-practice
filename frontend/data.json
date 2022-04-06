@@ -1,43 +1,43 @@
 [
     {
         "title": "Bogyo as puppy",
-        "filename": "/public/images/Bogyopuppy1.jpg"
+        "filename": "Bogyopuppy1.jpg"
     },
     {
         "title": "Bogyo as a calm puppy",
-        "filename": "/public/images/Bogyopuppy2.jpg"
+        "filename": "Bogyopuppy2.jpg"
     },
     {
         "title": "Bogyo puppy sleeping",
-        "filename": "/public/images/Bogyopuppy3.jpg"
+        "filename": "Bogyopuppy3.jpg"
     },
     {
         "title": "Bogyo sleeping in awkward position",
-        "filename": "/public/images/weirdsleep.jpg"
+        "filename": "weirdsleep.jpg"
     },
     {
         "title": "The Champion",
-        "filename": "/public/images/champion.jpg"
+        "filename": "champion.jpg"
     },
     {
         "title": "Bogyo playing",
-        "filename": "/public/images/ball.jpg"
+        "filename": "ball.jpg"
     },
     {
         "title": "Bogyo weird face",
-        "filename": "/public/images/weirdface1.jpg"
+        "filename": "weirdface1.jpg"
 
     },
     {
         "title": "Bogyo weirder face",
-        "filename": "/public/images/weirdface2.jpg"
+        "filename": "weirdface2.jpg"
     },
     {
         "title": "Bogyo very weird face",
-        "filename": "/public/images/weirdface3.jpg"
+        "filename": "weirdface3.jpg"
     },
     {
         "title": "Bogyo on alert",
-        "filename": "/public/images/weirdface4.jpg"
+        "filename": "weirdface4.jpg"
     }
 ]
