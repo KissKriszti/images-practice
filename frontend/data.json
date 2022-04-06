@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Bogyo as puppy",
+        "filename": "/public/images/Bogyopuppy1.jpg"
+    },
+    {
+        "title": "Bogyo as a calm puppy",
+        "filename": "/public/images/Bogyopuppy2.jpg"
+    },
+    {
+        "title": "Bogyo puppy sleeping",
+        "filename": "/public/images/Bogyopuppy3.jpg"
+    },
+    {
+        "title": "Bogyo sleeping in awkward position",
+        "filename": "/public/images/weirdsleep.jpg"
+    },
+    {
+        "title": "The Champion",
+        "filename": "/public/images/champion.jpg"
+    },
+    {
+        "title": "Bogyo playing",
+        "filename": "/public/images/ball.jpg"
+    },
+    {
+        "title": "Bogyo weird face",
+        "filename": "/public/images/weirdface1.jpg"
+
+    },
+    {
+        "title": "Bogyo weirder face",
+        "filename": "/public/images/weirdface2.jpg"
+    },
+    {
+        "title": "Bogyo very weird face",
+        "filename": "/public/images/weirdface3.jpg"
+    },
+    {
+        "title": "Bogyo on alert",
+        "filename": "/public/images/weirdface4.jpg"
+    }
+]
